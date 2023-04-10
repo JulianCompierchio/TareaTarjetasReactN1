@@ -71,7 +71,7 @@ const MiddleTextContainer = {
   alignItems: "center"
 }
 const InvisibleContainer = {
-  height: "140px"
+  height: "147px"
 }
 
 const BottomTextContainer = {

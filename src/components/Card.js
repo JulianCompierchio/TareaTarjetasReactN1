@@ -43,7 +43,7 @@ const Card = (props) => {
               margin : "0"
             }}>{props.card.product}</strong>
           <br></br>
-          <button style= {ButtonStyle}value={"Claim"}>Claim</button>
+          <button type={"button"} style={ButtonStyle} value={"Claim"}>Claim</button>
         </div>
     </div>
   )
